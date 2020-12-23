@@ -37,7 +37,7 @@ python bot.py
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
+* [VK](https://telegram.dog/vvryt) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
